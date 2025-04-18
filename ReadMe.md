@@ -1,5 +1,5 @@
 # Hey i'm Ali 👋:
-🔭 I’m currently working on Tebex<br>🌱 I’m currently learning Python<br>
+🌱 I’m currently learning Python<br>
 
 
 # Skills 💪:
